@@ -1,0 +1,6 @@
+{
+  "name": "MirraCast",
+  "description": "Low-latency HD screen mirroring and smart TV media casting with real NSD/SSDP discovery and hardware-accelerated H.264/HEVC streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

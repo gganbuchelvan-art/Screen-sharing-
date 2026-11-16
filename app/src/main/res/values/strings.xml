@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MirraCast</string>
+    <string name="nav_stage">Cast Stage</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_studio">Studio</string>
+    <string name="action_mirror_screen">Mirror Screen</string>
+    <string name="action_stop_mirror">Stop Mirroring</string>
+    <string name="action_cast_video">Cast Video</string>
+    <string name="action_cast_photo">Cast Photo</string>
+    <string name="action_scan_tvs">Scan Network</string>
+    <string name="action_pair_manual">Pair by IP</string>
+    <string name="action_system_cast">Wireless Display</string>
+    <string name="notif_channel_name">MirraCast Live Stream</string>
+    <string name="notif_channel_desc">Displays active low-latency screen mirroring status and controls.</string>
+    <string name="notif_mirroring_title">MirraCast Live Stream</string>
+    <string name="notif_stop_action">Stop Casting</string>
+</resources>
